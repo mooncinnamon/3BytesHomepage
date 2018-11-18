@@ -1,3 +1,6 @@
 [submodule "3BytesHomepage-Frontend"]
 	path = 3BytesHomepage-Frontend
 	url = https://github.com/mooncinnamon/3BytesHomepage-Frontend.git
+[submodule "3BytesHomepage-Backend"]
+	path = 3BytesHomepage-Backend
+	url = https://github.com/mooncinnamon/3BytesHomepage-Backend.git
